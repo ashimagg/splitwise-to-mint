@@ -1,0 +1,22 @@
+{ 
+    "date": "",
+    "description" : "",
+    "category" : {
+        "id" : "",
+        "name" : null
+    },
+    "accountId" : null,
+    "amount" : 0.0,
+    "parentId" : null,
+    "type" : "CashAndCreditTransaction",
+    "id" : null,
+    "isExpense" : true,
+    "isPending" : false,
+    "isDuplicate" : false,
+    "tagData" : {"tags":[{"id":"106197420_1406544"}]},
+    "splitData" : null,
+    "manualTransactionType" : "CASH",
+    "checkNumber" : null,
+    "isLinkedToRule" : false,
+    "shouldPullFromAtmWithdrawals" : false    
+}

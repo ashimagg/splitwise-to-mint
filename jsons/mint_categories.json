@@ -1,0 +1,3306 @@
+{
+  "Category" : [ {
+    "type" : "Category",
+    "name" : "Entertainment",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1"
+  }, {
+    "type" : "Category",
+    "name" : "Shopping",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_2",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_2"
+  }, {
+    "type" : "Category",
+    "name" : "Personal Care",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_4",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_4"
+  }, {
+    "type" : "Category",
+    "name" : "Health & Fitness",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_5",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_5"
+  }, {
+    "type" : "Category",
+    "name" : "Kids",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_6",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_6"
+  }, {
+    "type" : "Category",
+    "name" : "Food & Dining",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_7",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_7"
+  }, {
+    "type" : "Category",
+    "name" : "Gifts & Donations",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_8",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_8"
+  }, {
+    "type" : "Category",
+    "name" : "Pets",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_9",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_9"
+  }, {
+    "type" : "Category",
+    "name" : "Education",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_10",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_10"
+  }, {
+    "type" : "Category",
+    "name" : "Financial",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_11",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_11"
+  }, {
+    "type" : "Category",
+    "name" : "Home",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_12",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_12"
+  }, {
+    "type" : "Category",
+    "name" : "Bills & Utilities",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_13",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_13"
+  }, {
+    "type" : "Category",
+    "name" : "Auto & Transport",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_14",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_14"
+  }, {
+    "type" : "Category",
+    "name" : "Travel",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_15",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_15"
+  }, {
+    "type" : "Category",
+    "name" : "Fees & Charges",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_16",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_16"
+  }, {
+    "type" : "Category",
+    "name" : "Business Services",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_17",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_17"
+  }, {
+    "type" : "Category",
+    "name" : "Taxes",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_19",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_19"
+  }, {
+    "type" : "Category",
+    "name" : "Uncategorized",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-02-09T06:59:51Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_20",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_20"
+  }, {
+    "type" : "Category",
+    "name" : "Transfer",
+    "depth" : 1,
+    "categoryType" : "NO_CATEGORY",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_21",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_21"
+  }, {
+    "type" : "Category",
+    "name" : "Income",
+    "depth" : 1,
+    "categoryType" : "INCOME",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-07-12T05:39:16Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_30",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_30"
+  }, {
+    "type" : "Category",
+    "name" : "Hide from Budgets & Trends",
+    "depth" : 1,
+    "categoryType" : "NO_CATEGORY",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : true,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-10-22T08:07:13Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_40",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_40"
+  }, {
+    "type" : "Category",
+    "name" : "Investments",
+    "depth" : 1,
+    "categoryType" : "NO_CATEGORY",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_50",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_50"
+  }, {
+    "type" : "Category",
+    "name" : "Loans",
+    "depth" : 1,
+    "categoryType" : "NO_CATEGORY",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_60",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_60"
+  }, {
+    "type" : "Category",
+    "name" : "Misc Expenses",
+    "depth" : 1,
+    "categoryType" : "EXPENSE",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-02-09T06:59:38Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_70",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_70"
+  }, {
+    "type" : "Category",
+    "name" : "Arts",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_1",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_101",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_101"
+  }, {
+    "type" : "Category",
+    "name" : "Amusement",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_1",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_102",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_102"
+  }, {
+    "type" : "Category",
+    "name" : "Music",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_1",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_103",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_103"
+  }, {
+    "type" : "Category",
+    "name" : "Movies & DVDs",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_1",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_104",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_104"
+  }, {
+    "type" : "Category",
+    "name" : "Newspapers & Magazines",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_1",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_105",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_105"
+  }, {
+    "type" : "Category",
+    "name" : "Clothing",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_2",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_201",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_201"
+  }, {
+    "type" : "Category",
+    "name" : "Books",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_2",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_202",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_202"
+  }, {
+    "type" : "Category",
+    "name" : "Electronics & Software",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_2",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_204",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_204"
+  }, {
+    "type" : "Category",
+    "name" : "Hobbies",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_2",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_206",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_206"
+  }, {
+    "type" : "Category",
+    "name" : "Sporting Goods",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_2",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_207",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_207"
+  }, {
+    "type" : "Category",
+    "name" : "Hair",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_4",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_403",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_403"
+  }, {
+    "type" : "Category",
+    "name" : "Spa & Massage",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_4",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_404",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_404"
+  }, {
+    "type" : "Category",
+    "name" : "Laundry",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_4",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_406",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_406"
+  }, {
+    "type" : "Category",
+    "name" : "Dentist",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_5",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:10:57Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_501",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_501"
+  }, {
+    "type" : "Category",
+    "name" : "Doctor",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_5",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_502",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_502"
+  }, {
+    "type" : "Category",
+    "name" : "Eyecare",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_5",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_503",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_503"
+  }, {
+    "type" : "Category",
+    "name" : "Pharmacy",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_5",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:10:49Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_505",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_505"
+  }, {
+    "type" : "Category",
+    "name" : "Health Insurance",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_5",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_506",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_506"
+  }, {
+    "type" : "Category",
+    "name" : "Gym",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_5",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_507",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_507"
+  }, {
+    "type" : "Category",
+    "name" : "Sports",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_5",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_508",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_508"
+  }, {
+    "type" : "Category",
+    "name" : "Babysitter & Daycare",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_6",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_602",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_602"
+  }, {
+    "type" : "Category",
+    "name" : "Child Support",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_6",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_603",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_603"
+  }, {
+    "type" : "Category",
+    "name" : "Toys",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_6",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_606",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_606"
+  }, {
+    "type" : "Category",
+    "name" : "Kids Activities",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_6",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_609",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_609"
+  }, {
+    "type" : "Category",
+    "name" : "Allowance",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_6",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_610",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_610"
+  }, {
+    "type" : "Category",
+    "name" : "Baby Supplies",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_6",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_611",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_611"
+  }, {
+    "type" : "Category",
+    "name" : "Groceries",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_701",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_701"
+  }, {
+    "type" : "Category",
+    "name" : "Coffee Shops",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_704",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_704"
+  }, {
+    "type" : "Category",
+    "name" : "Fast Food",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_706",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_706"
+  }, {
+    "type" : "Category",
+    "name" : "Restaurants",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_707",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_707"
+  }, {
+    "type" : "Category",
+    "name" : "Alcohol & Bars",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_708",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_708"
+  }, {
+    "type" : "Category",
+    "name" : "Food Delivery",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-10-29T08:19:03Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_709",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_709"
+  }, {
+    "type" : "Category",
+    "name" : "Gift",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_8",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_801",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_801"
+  }, {
+    "type" : "Category",
+    "name" : "Charity",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_8",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_802",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_802"
+  }, {
+    "type" : "Category",
+    "name" : "Pet Food & Supplies",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_9",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_901",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_901"
+  }, {
+    "type" : "Category",
+    "name" : "Pet Grooming",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_9",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_902",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_902"
+  }, {
+    "type" : "Category",
+    "name" : "Veterinary",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_9",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_903",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_903"
+  }, {
+    "type" : "Category",
+    "name" : "Tuition",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_10",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1001",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1001"
+  }, {
+    "type" : "Category",
+    "name" : "Student Loan",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_10",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1002",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1002"
+  }, {
+    "type" : "Category",
+    "name" : "Books & Supplies",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_10",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1003",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1003"
+  }, {
+    "type" : "Category",
+    "name" : "Life Insurance",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_11",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1102",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1102"
+  }, {
+    "type" : "Category",
+    "name" : "Financial Advisor",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_11",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1105",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1105"
+  }, {
+    "type" : "Category",
+    "name" : "Furnishings",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_12",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1201",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1201"
+  }, {
+    "type" : "Category",
+    "name" : "Lawn & Garden",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_12",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1202",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1202"
+  }, {
+    "type" : "Category",
+    "name" : "Home Improvement",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_12",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1203",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1203"
+  }, {
+    "type" : "Category",
+    "name" : "Home Services",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_12",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1204",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1204"
+  }, {
+    "type" : "Category",
+    "name" : "Home Insurance",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_12",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1206",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1206"
+  }, {
+    "type" : "Category",
+    "name" : "Mortgage & Rent",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_12",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1207",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1207"
+  }, {
+    "type" : "Category",
+    "name" : "Home Supplies",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_12",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1208",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1208"
+  }, {
+    "type" : "Category",
+    "name" : "Television",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_13",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1301",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1301"
+  }, {
+    "type" : "Category",
+    "name" : "Home Phone",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_13",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1302",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1302"
+  }, {
+    "type" : "Category",
+    "name" : "Internet",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_13",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1303",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1303"
+  }, {
+    "type" : "Category",
+    "name" : "Mobile Phone",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_13",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1304",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1304"
+  }, {
+    "type" : "Category",
+    "name" : "Utilities",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_13",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1306",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1306"
+  }, {
+    "type" : "Category",
+    "name" : "Gas & Fuel",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1401",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1401"
+  }, {
+    "type" : "Category",
+    "name" : "Parking",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1402",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1402"
+  }, {
+    "type" : "Category",
+    "name" : "Service & Parts",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1403",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1403"
+  }, {
+    "type" : "Category",
+    "name" : "Auto Payment",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1404",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1404"
+  }, {
+    "type" : "Category",
+    "name" : "Auto Insurance",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1405",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1405"
+  }, {
+    "type" : "Category",
+    "name" : "Public Transportation",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1406",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1406"
+  }, {
+    "type" : "Category",
+    "name" : "Ride Share",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-10-29T08:19:05Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1408",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1408"
+  }, {
+    "type" : "Category",
+    "name" : "Air Travel",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_15",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1501",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1501"
+  }, {
+    "type" : "Category",
+    "name" : "Hotel",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_15",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1502",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1502"
+  }, {
+    "type" : "Category",
+    "name" : "Rental Car & Taxi",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_15",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1503",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1503"
+  }, {
+    "type" : "Category",
+    "name" : "Vacation",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_15",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1504",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1504"
+  }, {
+    "type" : "Category",
+    "name" : "Service Fee",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_16",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1601",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1601"
+  }, {
+    "type" : "Category",
+    "name" : "Late Fee",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_16",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1602",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1602"
+  }, {
+    "type" : "Category",
+    "name" : "Finance Charge",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_16",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1604",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1604"
+  }, {
+    "type" : "Category",
+    "name" : "ATM Fee",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_16",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1605",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1605"
+  }, {
+    "type" : "Category",
+    "name" : "Bank Fee",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_16",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1606",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1606"
+  }, {
+    "type" : "Category",
+    "name" : "Trade Commissions",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_16",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1607",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1607"
+  }, {
+    "type" : "Category",
+    "name" : "Advertising",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_17",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1701",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1701"
+  }, {
+    "type" : "Category",
+    "name" : "Office Supplies",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_17",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1702",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1702"
+  }, {
+    "type" : "Category",
+    "name" : "Printing",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_17",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1703",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1703"
+  }, {
+    "type" : "Category",
+    "name" : "Shipping",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_17",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1704",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1704"
+  }, {
+    "type" : "Category",
+    "name" : "Legal",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_17",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1705",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1705"
+  }, {
+    "type" : "Category",
+    "name" : "Federal Tax",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_19",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1901",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1901"
+  }, {
+    "type" : "Category",
+    "name" : "State Tax",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_19",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1902",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1902"
+  }, {
+    "type" : "Category",
+    "name" : "Local Tax",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_19",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1903",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1903"
+  }, {
+    "type" : "Category",
+    "name" : "Sales Tax",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_19",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1904",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1904"
+  }, {
+    "type" : "Category",
+    "name" : "Property Tax",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_19",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:48Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1905",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1905"
+  }, {
+    "type" : "Category",
+    "name" : "Cash & ATM",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_20",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2020-11-18T07:31:47Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_2001",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_2001"
+  }, {
+    "type" : "Category",
+    "name" : "Check",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_20",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-02-10T06:14:23Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_2002",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_2002"
+  }, {
+    "type" : "Category",
+    "name" : "Credit Card Payment",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_21",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_2101",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_2101"
+  }, {
+    "type" : "Category",
+    "name" : "Transfer for Cash Spending",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_21",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_2102",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_2102"
+  }, {
+    "type" : "Category",
+    "name" : "Paycheck",
+    "depth" : 2,
+    "categoryType" : "INCOME",
+    "parentId" : "106197420_30",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-07-12T05:39:16Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_3001",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_3001"
+  }, {
+    "type" : "Category",
+    "name" : "Returned Purchase",
+    "depth" : 2,
+    "categoryType" : "INCOME",
+    "parentId" : "106197420_30",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-07-12T05:39:16Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_3003",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_3003"
+  }, {
+    "type" : "Category",
+    "name" : "Bonus",
+    "depth" : 2,
+    "categoryType" : "INCOME",
+    "parentId" : "106197420_30",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-07-12T05:39:16Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_3004",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_3004"
+  }, {
+    "type" : "Category",
+    "name" : "Interest Income",
+    "depth" : 2,
+    "categoryType" : "INCOME",
+    "parentId" : "106197420_30",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-07-12T05:39:16Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_3005",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_3005"
+  }, {
+    "type" : "Category",
+    "name" : "Reimbursement",
+    "depth" : 2,
+    "categoryType" : "INCOME",
+    "parentId" : "106197420_30",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-07-12T05:39:16Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_3006",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_3006"
+  }, {
+    "type" : "Category",
+    "name" : "Rental Income",
+    "depth" : 2,
+    "categoryType" : "INCOME",
+    "parentId" : "106197420_30",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2013-07-12T05:39:16Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_3007",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_3007"
+  }, {
+    "type" : "Category",
+    "name" : "Deposit",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_50",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2008-01-01T08:00:00Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_5001",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_5001"
+  }, {
+    "type" : "Category",
+    "name" : "Withdrawal",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_50",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2008-01-01T08:00:00Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_5002",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_5002"
+  }, {
+    "type" : "Category",
+    "name" : "Dividend & Cap Gains",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_50",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2008-01-01T08:00:00Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_5003",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_5003"
+  }, {
+    "type" : "Category",
+    "name" : "Buy",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_50",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2008-01-01T08:00:00Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_5004",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_5004"
+  }, {
+    "type" : "Category",
+    "name" : "Sell",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_50",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2008-01-01T08:00:00Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_5005",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_5005"
+  }, {
+    "type" : "Category",
+    "name" : "Loan Payment",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_60",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_6001",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_6001"
+  }, {
+    "type" : "Category",
+    "name" : "Loan Insurance",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_60",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_6002",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_6002"
+  }, {
+    "type" : "Category",
+    "name" : "Loan Principal",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_60",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_6003",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_6003"
+  }, {
+    "type" : "Category",
+    "name" : "Loan Interest",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_60",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_6004",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_6004"
+  }, {
+    "type" : "Category",
+    "name" : "Loan Fees and Charges",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_60",
+    "isBusiness" : false,
+    "isCustom" : false,
+    "isUnassignable" : true,
+    "isUnbudgetable" : true,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : false,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2021-08-20T23:11:25Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_6005",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_6005"
+  }, {
+    "type" : "Category",
+    "name" : "Shef",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-03T05:52:51Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1856811",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1856811"
+  }, {
+    "type" : "Category",
+    "name" : "Rental",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_14",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-03T05:53:31Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1856812",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1856812"
+  }, {
+    "type" : "Category",
+    "name" : "Whole foods",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-03T05:53:55Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1856813",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1856813"
+  }, {
+    "type" : "Category",
+    "name" : "Amazon",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_2",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-03T05:54:18Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1856814",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1856814"
+  }, {
+    "type" : "Category",
+    "name" : "Adobe",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_17",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-03T06:10:18Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1856819",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1856819"
+  }, {
+    "type" : "Category",
+    "name" : "Vending machine",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_7",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-04T14:40:34Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1857154",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1857154"
+  }, {
+    "type" : "Category",
+    "name" : "To Friend",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_21",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-04T17:04:09Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1857202",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1857202"
+  }, {
+    "type" : "Category",
+    "name" : "Tax refund",
+    "depth" : 2,
+    "categoryType" : "INCOME",
+    "parentId" : "106197420_30",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-04T16:49:12Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1857204",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1857204"
+  }, {
+    "type" : "Category",
+    "name" : "Subscriptions",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_13",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "NON_DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-04T16:50:53Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1857206",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1857206"
+  }, {
+    "type" : "Category",
+    "name" : "From Friend",
+    "depth" : 2,
+    "categoryType" : "NO_CATEGORY",
+    "parentId" : "106197420_21",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : true,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "NONE",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-04T17:04:01Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1857208",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1857208"
+  }, {
+    "type" : "Category",
+    "name" : "Travel - Food",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_15",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-08T16:31:54Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1858451",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1858451"
+  }, {
+    "type" : "Category",
+    "name" : "Travel - Gas",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_15",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-08T16:33:06Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1858452",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1858452"
+  }, {
+    "type" : "Category",
+    "name" : "Travel - Groceries",
+    "depth" : 2,
+    "categoryType" : "EXPENSE",
+    "parentId" : "106197420_15",
+    "isBusiness" : false,
+    "isCustom" : true,
+    "isUnassignable" : false,
+    "isUnbudgetable" : false,
+    "isUntrendable" : false,
+    "isIgnored" : false,
+    "isEditable" : true,
+    "isDeleted" : false,
+    "discretionaryType" : "DISCRETIONARY",
+    "metaData" : {
+      "lastUpdatedDate" : "2022-07-08T16:33:45Z",
+      "link" : [ {
+        "otherAttributes" : { },
+        "href" : "/v1/categories/106197420_1858453",
+        "rel" : "self"
+      } ]
+    },
+    "id" : "106197420_1858453"
+  } ],
+  "metaData" : {
+    "asOf" : "2022-07-10T00:38:31Z",
+    "totalSize" : 138,
+    "pageSize" : 138,
+    "currentPage" : 1,
+    "offset" : 0,
+    "limit" : 5000,
+    "link" : [ {
+      "otherAttributes" : {
+        "method" : "GET"
+      },
+      "href" : "/v1/categories",
+      "rel" : "self"
+    } ]
+  }
+}
